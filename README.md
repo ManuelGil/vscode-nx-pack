@@ -1,7 +1,7 @@
 # Nx Essential Extension Pack
 
-[![Latest Release](https://img.shields.io/visual-studio-marketplace/v/imgildev.vscode-php-language-pack?style=flat&label=VS%20Marketplace&logo=visual-studio-code)](https://marketplace.visualstudio.com/items?itemName=imgildev.vscode-php-language-pack)
-[![GitHub license](https://img.shields.io/github/license/ManuelGil/vscode-php-language-pack)]()
+[![Latest Release](https://img.shields.io/visual-studio-marketplace/v/imgildev.vscode-nx-pack?style=flat&label=VS%20Marketplace&logo=visual-studio-code)](https://marketplace.visualstudio.com/items?itemName=imgildev.vscode-nx-pack)
+[![GitHub license](https://img.shields.io/github/license/ManuelGil/vscode-nx-pack)]()
 
 This extension pack for Visual Studio Code adds extensions that are amazingly useful for Nx, Angular, Nest, Next, TypeScript, and JavaScript development.
 
@@ -88,7 +88,7 @@ This extension pack for Visual Studio Code adds extensions that are amazingly us
 
 - **Manuel Gil** - _Owner_ - [ManuelGil](https://github.com/ManuelGil)
 
-See also the list of [contributors](https://github.com/ManuelGil/vscode-php-language-pack/contributors) who participated in this project.
+See also the list of [contributors](https://github.com/ManuelGil/vscode-nx-pack/contributors) who participated in this project.
 
 ## License
 
