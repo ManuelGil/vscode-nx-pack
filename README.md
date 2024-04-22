@@ -76,6 +76,7 @@ This extension pack for Visual Studio Code adds extensions that are amazingly us
 
 ### Other
 
+- [Auto Barrel](https://marketplace.visualstudio.com/items?itemName=imgildev.vscode-auto-barrel)
 - [Error Lens](https://marketplace.visualstudio.com/items?itemName=usernamehw.errorlens)
 - [DotENV](https://marketplace.visualstudio.com/items?itemName=mikestead.dotenv)
 - [Draw Folder Structure](https://marketplace.visualstudio.com/items?itemName=jmkrivocapich.drawfolderstructure)
