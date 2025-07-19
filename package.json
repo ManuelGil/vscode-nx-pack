@@ -2,7 +2,7 @@
   "name": "vscode-nx-pack",
   "displayName": "Nx / Angular / Nest / Next Essential Extension Pack",
   "description": "This extension pack for Visual Studio Code adds extensions that are amazingly useful for Nx, Angular, Nest, Next, TypeScript, and JavaScript development.",
-  "version": "1.2.0",
+  "version": "1.2.1",
   "icon": "icon.png",
   "license": "MIT",
   "publisher": "imgildev",
